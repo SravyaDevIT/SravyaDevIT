@@ -23,7 +23,7 @@ Fast learner with solid coding fundamentals in JavaScript, React/Next.js, Python
 
 Let's connect!  
 📧 sravya.workmail13@gmail.com  
-🔗 www.linkedin.com/in/sravya-chindurupu-2024-331391232 | [Portfolio](your-vercel-link)
+🔗 www.linkedin.com/in/sravya-chindurupu-2024-331391232 | [Portfolio]([your-vercel-link](https://my-portfolio-rose-ten-24.vercel.app/))
 
 ---
 Excited to ship real projects and grow in the tech space again!
