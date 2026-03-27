@@ -20,10 +20,11 @@ Fast learner with solid coding fundamentals in JavaScript, React/Next.js, Python
 ### 🌍 Open to Remote Work
 - Comfortable with US/EU time zones
 - Actively building and deploying projects
-
-Let's connect!  
-📧 sravya.workmail13@gmail.com  
-🔗 www.linkedin.com/in/sravya-chindurupu-2024-331391232 | [Portfolio](https://my-portfolio-rose-ten-24.vercel.app/))
+ 
+### 📬 Let's Connect
+- **Email**: sravya.workmail13@gmail.com
+- **LinkedIn**: [Sravya Chindurupu](https://www.linkedin.com/in/sravya-chindurupu-2024-331391232)
+- **Portfolio**: [https://my-portfolio-rose-ten-24.vercel.app/](https://my-portfolio-rose-ten-24.vercel.app/)
 
 ---
 Excited to ship real projects and grow in the tech space again!
